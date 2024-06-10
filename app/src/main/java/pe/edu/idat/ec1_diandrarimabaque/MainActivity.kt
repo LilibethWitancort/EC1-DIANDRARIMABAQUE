@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             EC1DIANDRARIMABAQUETheme {
-                Salario()
+                PromedioPracticas()
             }
         }
     }
